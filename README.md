@@ -20,7 +20,7 @@ Before running the project, install:
 ```bash
 
 1️⃣ Clone the repository
-git clone https://github.com/rudani-jugal/reminder-frontend
+git clone https://github.com/rudani-jugal/reminder-frontend.git
 cd reminder-frontend
 git checkout main
 
