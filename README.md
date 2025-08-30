@@ -20,8 +20,9 @@ Before running the project, install:
 ```bash
 
 1️⃣ Clone the repository
-git clone <repo-url>
+git clone https://github.com/rudani-jugal/reminder-frontend
 cd reminder-frontend
+git checkout main
 
 2️⃣ Install dependencies
 npm install
