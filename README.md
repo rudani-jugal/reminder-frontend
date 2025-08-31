@@ -32,3 +32,5 @@ npm run serve
 
 The app will be available at:
 👉 http://localhost:8080
+
+🚨🚨 NOTE: Check your span folder for reminders if it is not visible in primary inbox
